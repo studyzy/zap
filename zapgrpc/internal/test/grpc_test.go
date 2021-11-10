@@ -28,7 +28,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"go.uber.org/zap/zapgrpc"
-	"go.uber.org/zap/zaptest/observer"
+	"studyzy/zaptest/v2/observer"
 	"google.golang.org/grpc/grpclog"
 )
 

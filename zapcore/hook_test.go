@@ -24,7 +24,7 @@ import (
 	"testing"
 
 	. "go.uber.org/zap/zapcore"
-	"go.uber.org/zap/zaptest/observer"
+	"studyzy/zaptest/v2/observer"
 
 	"github.com/stretchr/testify/assert"
 )

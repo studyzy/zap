@@ -1,0 +1,50 @@
+2021-11-10 18:03:28.643	[INFO]	Module1	testing/testing.go:1259	received work order
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259
+2021-11-10 18:03:28.644	[WARN]	Module1	testing/testing.go:1259	work may fail
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259
+2021-11-10 18:03:28.644	[ERROR]	Module1	testing/testing.go:1259	work failed	{"error": "great sadness"}
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259
+2021-11-10 18:03:28.644	[WARN]	Module1	devin/devin_test.go:125	eeeeeeee fail
+github.com/studyzy/zap/zaptest/devin/v2.TestTestLoggerSupportsWrappedZapOptions
+	/Users/devinzeng/go/src/github.com/studyzy/zap/zaptest/devin/devin_test.go:125
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259
+2021-11-10 18:03:28.644	[PANIC]	Module1	assert/assertions.go:1018	failed to do work
+github.com/stretchr/testify/assert.didPanic.func1
+	/Users/devinzeng/go/pkg/mod/github.com/stretchr/testify@v1.7.0/assert/assertions.go:1018
+github.com/stretchr/testify/assert.didPanic
+	/Users/devinzeng/go/pkg/mod/github.com/stretchr/testify@v1.7.0/assert/assertions.go:1020
+github.com/stretchr/testify/assert.Panics
+	/Users/devinzeng/go/pkg/mod/github.com/stretchr/testify@v1.7.0/assert/assertions.go:1034
+github.com/studyzy/zap/zaptest/devin/v2.TestTestLoggerSupportsWrappedZapOptions
+	/Users/devinzeng/go/src/github.com/studyzy/zap/zaptest/devin/devin_test.go:126
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259
+2021-11-10 18:07:13.131	[INFO]	Module1	testing/testing.go:1259	received work order
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259
+2021-11-10 18:07:13.133	[WARN]	Module1	testing/testing.go:1259	work may fail
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259
+2021-11-10 18:07:13.133	[ERROR]	Module1	testing/testing.go:1259	work failed	{"error": "great sadness"}
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259
+2021-11-10 18:07:13.133	[WARN]	Module1	devin/devin_test.go:126	eeeeeeee fail
+github.com/studyzy/zap/zaptest/devin/v2.TestTestLoggerSupportsWrappedZapOptions
+	/Users/devinzeng/go/src/github.com/studyzy/zap/zaptest/devin/devin_test.go:126
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259
+2021-11-10 18:07:13.133	[PANIC]	Module1	assert/assertions.go:1018	failed to do work
+github.com/stretchr/testify/assert.didPanic.func1
+	/Users/devinzeng/go/pkg/mod/github.com/stretchr/testify@v1.7.0/assert/assertions.go:1018
+github.com/stretchr/testify/assert.didPanic
+	/Users/devinzeng/go/pkg/mod/github.com/stretchr/testify@v1.7.0/assert/assertions.go:1020
+github.com/stretchr/testify/assert.Panics
+	/Users/devinzeng/go/pkg/mod/github.com/stretchr/testify@v1.7.0/assert/assertions.go:1034
+github.com/studyzy/zap/zaptest/devin/v2.TestTestLoggerSupportsWrappedZapOptions
+	/Users/devinzeng/go/src/github.com/studyzy/zap/zaptest/devin/devin_test.go:127
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1259

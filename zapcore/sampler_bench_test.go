@@ -27,7 +27,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/atomic"
-	"go.uber.org/zap/internal/ztest"
+	"go.uber.org/zap/ztest"
 	. "go.uber.org/zap/zapcore"
 )
 

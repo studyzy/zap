@@ -26,7 +26,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"go.uber.org/zap/internal/ztest"
+	"go.uber.org/zap/ztest"
 )
 
 func BenchmarkMultiWriteSyncer(b *testing.B) {

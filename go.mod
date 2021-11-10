@@ -1,4 +1,4 @@
-module go.uber.org/zap
+module studyzy/zap
 
 go 1.13
 

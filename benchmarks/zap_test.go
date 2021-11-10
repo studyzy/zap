@@ -27,7 +27,7 @@ import (
 
 	"go.uber.org/multierr"
 	"go.uber.org/zap"
-	"go.uber.org/zap/internal/ztest"
+	"go.uber.org/zap/ztest"
 	"go.uber.org/zap/zapcore"
 )
 

@@ -29,7 +29,7 @@ import (
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	. "go.uber.org/zap/zaptest/observer"
+	. "github.com/studyzy/zap/zaptest/v2/observer"
 )
 
 func assertEmpty(t testing.TB, logs *ObservedLogs) {

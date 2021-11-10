@@ -22,7 +22,7 @@
 // encoding-agnostic representation of log entries. It's useful for
 // applications that want to unit test their log output without tying their
 // tests to a particular output encoding.
-package observer // import "go.uber.org/zap/zaptest/observer"
+package observer // import "github.com/studyzy/zap/zaptest/v2/observer"
 
 import (
 	"strings"

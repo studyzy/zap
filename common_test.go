@@ -25,7 +25,7 @@ import (
 	"testing"
 
 	"go.uber.org/zap/zapcore"
-	"go.uber.org/zap/zaptest/observer"
+	"studyzy/zaptest/v2/observer"
 )
 
 func opts(opts ...Option) []Option {

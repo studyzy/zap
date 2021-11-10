@@ -28,7 +28,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"go.uber.org/zap/internal/ztest"
+	"go.uber.org/zap/ztest"
 )
 
 type writeSyncSpy struct {

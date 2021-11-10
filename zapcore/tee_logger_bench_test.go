@@ -23,7 +23,7 @@ package zapcore_test
 import (
 	"testing"
 
-	"go.uber.org/zap/internal/ztest"
+	"go.uber.org/zap/ztest"
 	. "go.uber.org/zap/zapcore"
 )
 
